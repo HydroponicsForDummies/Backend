@@ -15,3 +15,4 @@ humidity = 100 * (data[3] * 256 + data[4]) / 65535.0
 
 print("Temperatura: ",cTemp)
 print("Humedad: ",humidity)
+print("Something")
